@@ -18,7 +18,7 @@ if(!score){
 }
 scoreEl.innerText =`score: ${score}`;
 
-questionEl.innerText = `What is ${num1} multiply by ${num2}?`;
+questionEl.innerText = `Fishes is ${num1} multiply by ${num2} Fishes?`;
 
 
 
